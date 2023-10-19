@@ -37,9 +37,9 @@ const Contact = () => {
         "template_bslauog",
         {
           from_name: form.name,
-          to_name: "Emily Lo",
+          to_name: "Eugene Ochako",
           from_email: form.email,
-          to_email: "emilylo1381@gmail.com",
+          to_email: "eugeneochako@gmail.com",
           message: `${form.message} by ${form.email}`,
         },
         "iVzYAnbw8VPiiUz9p"
